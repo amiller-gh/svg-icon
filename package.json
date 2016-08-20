@@ -1,0 +1,31 @@
+{
+  "name": "svg-icon",
+  "version": "1.0.0",
+  "description": "SVG icon custom element",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "qunitjs": "^1.23.1"
+  },
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicmiller/svg-icon.git"
+  },
+  "keywords": [
+    "custom",
+    "element",
+    "svg",
+    "icon"
+  ],
+  "author": "epicmiller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epicmiller/svg-icon/issues"
+  },
+  "homepage": "https://github.com/epicmiller/svg-icon#readme"
+}

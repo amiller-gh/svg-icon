@@ -1,0 +1,61 @@
+<html>
+
+  <head>
+    <meta name="svg-icons" content="/static/round.svg" id="round-icon">
+    <meta name="svg-icons" content="/static/pkmn.svg" id="pkmn-icon">
+    <script src="/index.js"></script>
+
+    <link rel="stylesheet" href="/node_modules/qunitjs/qunit/qunit.css"/>
+    <script src="/node_modules/qunitjs/qunit/qunit.js"></script>
+
+    <script src="/testem.js"></script>
+
+    <style>
+      body {
+        font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+      }
+      h1, p {
+        font-weight: 200;
+        margin: 0;
+      }
+      p {
+        margin-bottom: 16px;
+      }
+      hr {
+        margin: 30px 0;
+      }
+      round-icon {
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+      }
+      pkmn-icon {
+        width: 60px;
+        height: 60px;
+        display: inline-block;
+      }
+    </style>
+
+  </head>
+
+  <body>
+
+    <h1>Round Icons</h1>
+    <p>(Hover over me!)</p>
+    <round-icon type="refresh"></round-icon>
+    <round-icon type="close"></round-icon>
+    <round-icon type="compass"></round-icon>
+    <round-icon type="menu"></round-icon>
+
+    <hr>
+
+    <h1>Pokemon Icons</h1>
+
+    <pkmn-icon type="bulbasaur"></pkmn-icon>
+    <pkmn-icon type="charmander"></pkmn-icon>
+    <pkmn-icon type="squirtle"></pkmn-icon>
+    <pkmn-icon type="abra"></pkmn-icon>
+
+  </body>
+
+</html>

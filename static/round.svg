@@ -1,0 +1,172 @@
+<svg id="svg-source" width="24px" height="318px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <!-- http://www.flaticon.com/packs/web-navigation-line-craft -->
+  <defs id="ui-icons">
+    <svg version="1.1" id="refresh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    	 viewBox="0 0 294.843 294.843" style="enable-background:new 0 0 294.843 294.843;" xml:space="preserve">
+
+       <style>
+         svg#refresh .svg-refresh-icon-outer-circle {
+           transform: rotate(0deg);
+           transform-origin: 50%;
+           transition: transform .3s;
+           -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+           transition-timing-function: cubic-bezier(.4,0,.2,1);
+         }
+         svg#refresh:hover .svg-refresh-icon-outer-circle {
+           transform: rotate(-90deg);
+         }
+         svg#refresh .svg-refresh-icon-arrow {
+           transform: rotate(0deg);
+           transform-origin: 45%;
+           transition: transform .3s;
+           -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+           transition-timing-function: cubic-bezier(.4,0,.2,1);
+         }
+         svg#refresh:hover .svg-refresh-icon-arrow {
+           transform: rotate(90deg);
+         }
+       </style>
+
+    	<path class="svg-refresh-icon-outer-circle" d="M147.421,0c-3.313,0-6,2.687-6,6s2.687,6,6,6c74.671,0,135.421,60.75,135.421,135.421s-60.75,135.421-135.421,135.421
+    		S12,222.093,12,147.421c0-50.804,28.042-96.902,73.183-120.305c2.942-1.525,4.09-5.146,2.565-8.088
+    		c-1.525-2.942-5.147-4.09-8.088-2.565C30.524,41.937,0,92.118,0,147.421c0,81.289,66.133,147.421,147.421,147.421
+    		s147.421-66.133,147.421-147.421S228.71,0,147.421,0z"/>
+        <g class="svg-refresh-icon-arrow" >
+        	<path d="M205.213,71.476c-16.726-12.747-36.71-19.484-57.792-19.484c-52.62,0-95.43,42.81-95.43,95.43s42.81,95.43,95.43,95.43
+        		c25.49,0,49.455-9.926,67.479-27.951c2.343-2.343,2.343-6.142,0-8.485c-2.343-2.343-6.143-2.343-8.485,0
+        		c-15.758,15.758-36.709,24.436-58.994,24.436c-46.003,0-83.43-37.426-83.43-83.43s37.426-83.43,83.43-83.43
+        		c36.894,0,69.843,24.715,80.126,60.104c0.924,3.182,4.253,5.011,7.436,4.087c3.182-0.925,5.012-4.254,4.087-7.436
+        		C233.422,101.308,221.398,83.809,205.213,71.476z"/>
+        	<path d="M217.773,129.262c-2.344-2.343-6.143-2.343-8.485,0c-2.343,2.343-2.343,6.142,0,8.485l22.57,22.571
+        		c1.125,1.125,2.651,1.757,4.243,1.757s3.118-0.632,4.243-1.757l22.57-22.571c2.343-2.343,2.343-6.142,0-8.485
+        		c-2.344-2.343-6.143-2.343-8.485,0l-18.328,18.328L217.773,129.262z"/>
+        </g>
+    </svg>
+
+    <svg version="1.1" id="close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    	 viewBox="0 0 294.843 294.843" style="enable-background:new 0 0 294.843 294.843;" xml:space="preserve">
+
+      <style>
+        svg#close .svg-close-icon-line-1 {
+          transform: rotate(0deg);
+          transform-origin: 50%;
+          transition: transform .3s;
+          -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+          transition-timing-function: cubic-bezier(.4,0,.2,1);
+        }
+        svg#close:hover .svg-close-icon-line-1 {
+          transform: rotate(-90deg);
+        }
+        svg#close .svg-close-icon-line-2 {
+          transform: rotate(0deg);
+          transform-origin: 50%;
+          transition: transform .3s;
+          -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+          transition-timing-function: cubic-bezier(.4,0,.2,1);
+        }
+        svg#close:hover .svg-close-icon-line-2 {
+          transform: rotate(90deg);
+        }
+      </style>
+      <g>
+      	<path d="M147.421,0C66.133,0,0,66.133,0,147.421s66.133,147.421,147.421,147.421c38.287,0,74.567-14.609,102.159-41.136
+      		c2.389-2.296,2.464-6.095,0.167-8.483c-2.295-2.388-6.093-2.464-8.483-0.167c-25.345,24.367-58.672,37.786-93.842,37.786
+      		C72.75,282.843,12,222.093,12,147.421S72.75,12,147.421,12s135.421,60.75,135.421,135.421c0,16.842-3.052,33.273-9.071,48.835
+      		c-1.195,3.091,0.341,6.565,3.432,7.761c3.092,1.193,6.565-0.341,7.761-3.432c6.555-16.949,9.879-34.836,9.879-53.165
+      		C294.843,66.133,228.71,0,147.421,0z"/>
+
+        <g class="svg-close-icon-line-2">
+        	<path d="M167.619,160.134c-2.37-2.319-6.168-2.277-8.485,0.09c-2.318,2.368-2.277,6.167,0.09,8.485l47.236,46.236
+        		c1.168,1.143,2.683,1.712,4.197,1.712c1.557,0,3.113-0.603,4.288-1.803c2.318-2.368,2.277-6.167-0.09-8.485L167.619,160.134z"/>
+        	<path d="M125.178,133.663c1.171,1.171,2.707,1.757,4.243,1.757s3.071-0.586,4.243-1.757c2.343-2.343,2.343-6.142,0-8.485
+        		L88.428,79.942c-2.343-2.343-6.143-2.343-8.485,0c-2.343,2.343-2.343,6.142,0,8.485L125.178,133.663z"/>
+        </g>
+
+      	<path class="svg-close-icon-line-1" d="M214.9,79.942c-2.343-2.343-6.143-2.343-8.485,0L79.942,206.415c-2.343,2.343-2.343,6.142,0,8.485
+      		c1.171,1.171,2.707,1.757,4.243,1.757s3.071-0.586,4.243-1.757L214.9,88.428C217.243,86.084,217.243,82.286,214.9,79.942z"/>
+      </g>
+    </svg>
+
+    <svg version="1.1" id="compass" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    	 viewBox="0 0 294.843 294.843" style="enable-background:new 0 0 294.843 294.843;" xml:space="preserve">
+       <style>
+         svg#compass .svg-compass-icon-pointer {
+           transform: rotate(0deg);
+           transform-origin: 37% 67%;
+           transition: transform .3s;
+           -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+           transition-timing-function: cubic-bezier(.4,0,.2,1);
+         }
+         svg#compass:hover .svg-compass-icon-pointer {
+           transform: rotate(-320deg);
+         }
+       </style>
+      <g>
+      	<path d="M147.421,0C66.133,0,0,66.133,0,147.421c0,3.313,2.687,6,6,6s6-2.687,6-6C12,72.75,72.75,12,147.421,12
+      		s135.421,60.75,135.421,135.421s-60.75,135.421-135.421,135.421c-50.805,0-96.902-28.042-120.305-73.184
+      		c-1.526-2.941-5.146-4.089-8.089-2.565c-2.941,1.525-4.09,5.146-2.565,8.088c25.475,49.136,75.654,79.66,130.959,79.66
+      		c81.288,0,147.421-66.133,147.421-147.421S228.709,0,147.421,0z"/>
+        <g class="svg-compass-icon-pointer">
+        	<circle cx="147.421" cy="147.421" r="7.741"/>
+        	<path d="M121.442,173.401c7.162,7.162,16.571,10.743,25.979,10.743s18.817-3.581,25.98-10.743
+        		c22.521-22.522,42.158-84.787,42.982-87.426c0.988-3.163-0.774-6.528-3.937-7.517c-3.168-0.987-6.529,0.775-7.517,3.938
+        		c-0.049,0.155-4.947,15.763-12.417,33.833c-9.721,23.517-19.264,40.353-27.598,48.687c-9.646,9.645-25.342,9.646-34.99,0
+        		c-9.646-9.646-9.646-25.342,0-34.988c7.157-7.156,21.646-15.624,41.9-24.487c3.036-1.328,4.42-4.866,3.092-7.902
+        		c-1.329-3.036-4.866-4.419-7.902-3.091c-21.92,9.592-37.254,18.675-45.574,26.995C107.117,135.767,107.117,159.076,121.442,173.401
+        		z"/>
+        </g>
+      	<path d="M153.421,57.992V35.255c0-3.313-2.687-6-6-6s-6,2.687-6,6v22.737c0,3.313,2.687,6,6,6S153.421,61.305,153.421,57.992z"/>
+      	<path d="M141.421,236.851v22.737c0,3.313,2.687,6,6,6s6-2.687,6-6v-22.737c0-3.313-2.687-6-6-6S141.421,233.538,141.421,236.851z"
+      		/>
+      	<path d="M259.588,153.421c3.313,0,6-2.687,6-6s-2.687-6-6-6h-22.737c-3.313,0-6,2.687-6,6s2.687,6,6,6H259.588z"/>
+      	<path d="M57.992,153.421c3.313,0,6-2.687,6-6s-2.687-6-6-6H35.254c-3.313,0-6,2.687-6,6s2.687,6,6,6H57.992z"/>
+      </g>
+    </svg>
+
+
+    <svg version="1.1" id="menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    	 viewBox="0 0 294.843 294.843" style="enable-background:new 0 0 294.843 294.843;" xml:space="preserve">
+       <style>
+         svg#menu .svg-menu-icon-circle {
+           transform: rotate(0deg);
+           transform-origin: 50%;
+           transition: transform .3s;
+           -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+           transition-timing-function: cubic-bezier(.4,0,.2,1);
+         }
+         svg#menu:hover .svg-menu-icon-circle {
+           transform: rotate(60deg);
+         }
+         svg#menu .svg-menu-icon-line-1 {
+           transform: translateY(0px);
+           transition: transform .3s;
+           -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+           transition-timing-function: cubic-bezier(.4,0,.2,1);
+         }
+         svg#menu:hover .svg-menu-icon-line-1 {
+           transform: translateY(15px);
+         }
+         svg#menu .svg-menu-icon-line-3 {
+           transform: translateY(0px);
+           transition: transform .3s;
+           -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+           transition-timing-function: cubic-bezier(.4,0,.2,1);
+         }
+         svg#menu:hover .svg-menu-icon-line-3 {
+           transform: translateY(-15px);
+         }
+       </style>
+      <g>
+      	<path class="svg-menu-icon-circle" d="M147.421,0C66.133,0,0,66.133,0,147.421c0,40.968,17.259,80.425,47.351,108.255c2.433,2.25,6.229,2.101,8.479-0.331
+      		c2.25-2.434,2.102-6.229-0.332-8.479C27.854,221.3,12,185.054,12,147.421C12,72.75,72.75,12,147.421,12
+      		s135.421,60.75,135.421,135.421s-60.75,135.421-135.421,135.421c-3.313,0-6,2.687-6,6s2.687,6,6,6
+      		c81.289,0,147.421-66.133,147.421-147.421S228.71,0,147.421,0z"/>
+      	<path class="svg-menu-icon-line-1" d="M84.185,90.185h126.473c3.313,0,6-2.687,6-6s-2.687-6-6-6H84.185c-3.313,0-6,2.687-6,6S80.872,90.185,84.185,90.185z"/>
+      	<path class="svg-menu-icon-line-2" d="M84.185,153.421h126.473c3.313,0,6-2.687,6-6s-2.687-6-6-6H84.185c-3.313,0-6,2.687-6,6S80.872,153.421,84.185,153.421z"/>
+      	<path class="svg-menu-icon-line-3" d="M216.658,210.658c0-3.313-2.687-6-6-6H84.185c-3.313,0-6,2.687-6,6s2.687,6,6,6h126.473
+      		C213.971,216.658,216.658,213.971,216.658,210.658z"/>
+      </g>
+    </svg>
+
+  </defs>
+</svg>
