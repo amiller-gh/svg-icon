@@ -17,7 +17,6 @@
 
         // Icons should always be hidden from screen readers.
         this.setAttribute('aria-hidden', 'true');
-
         this.update();
 
       }
